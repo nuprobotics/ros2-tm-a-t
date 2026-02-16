@@ -14,7 +14,7 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='student',
+    maintainer='tmat',
     maintainer_email='todo@todo.com',
     description='Task 01 - String message receiver node',
     license='Apache-2.0',

@@ -4,7 +4,7 @@
   <name>task01</name>
   <version>0.0.1</version>
   <description>Task 01 - String message receiver node</description>
-  <maintainer email="todo@todo.com">student</maintainer>
+  <maintainer email="todo@todo.com">tmat</maintainer>
   <license>Apache-2.0</license>
 
   <exec_depend>rclpy</exec_depend>
